@@ -38,3 +38,12 @@ function multiply(a, b){
 }
 ```
 --------------
+### Education:
+- Gdansk University of Technology (GUT) -  Computer Science, 2d year.
+--------------
+### Languages:
+- Russian - native
+- Belorussian - native
+- English - Pre-intermediate
+>And i try to improve my English level, also I have lot of practice with people who speak English much better than me
+- Polish - Advanced
