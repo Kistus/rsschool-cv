@@ -10,3 +10,31 @@ Contact information:
 - Github: [Kistus](https://github.com/Kistus)
 
 --------------
+### Briefly About Myself:
+Now I am a computer science student at the Gdansk University of Technology (GUT). I've always been interested in computer technology. I am already familiar with some technologies from different fields of computer science and now I want to find a job related to my education.
+
+--------------
+
+### Skills:
+- C/C++
+- Python(Basic knowledge)
+- Java(Basic knowledge)
+- HTML
+- CSS
+- XML
+- Familiar with Ada
+- Familiar with SmallTalk
+- Familiar with Git
+- Familiar with Unity
+- Evaluation of complexity and creation of algorithms
+
+--------------
+
+### Code example:
+Qualification task Codewars.
+```
+function multiply(a, b){
+  return a * b
+}
+```
+--------------
