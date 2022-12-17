@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Kistus.github.io/rsschool-cv/
